@@ -1,0 +1,14 @@
+.app {
+  background-color: aquamarine;
+  
+}
+
+.app.dark {
+  color: aliceblue;
+  background-color: black;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
